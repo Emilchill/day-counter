@@ -1,5 +1,7 @@
 # Day Counter for Cinnabar
 
+**⬇️ Download:** [`day-counter.wasm`](https://github.com/Emilchill/day-counter/raw/main/download/day-counter.wasm) (Cinnabar v0.1.31 or newer). Import it in **Settings → Mods → Import mod...**
+
 Counts the days above your hotbar. A port of
 [Day Counter](https://modrinth.com/datapack/daycounter) by justwilly, whose datapack reads
 the world clock each tick and writes `DAY n` to the action bar.
